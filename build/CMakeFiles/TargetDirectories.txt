@@ -1,0 +1,3 @@
+/mnt/c/Users/andre/OneDrive/Desktop/game-engines/Tilemaps/build/CMakeFiles/DOUGH.dir
+/mnt/c/Users/andre/OneDrive/Desktop/game-engines/Tilemaps/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/andre/OneDrive/Desktop/game-engines/Tilemaps/build/CMakeFiles/rebuild_cache.dir
